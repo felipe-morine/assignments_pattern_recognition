@@ -1,0 +1,5 @@
+
+Trainning Times: 1500 Hidden Layers: 2 Neurons 200 Learning Rate: 0.01 
+Testing Accuracy: 0.9029 Recall: 0.5172 Precision: 0.7520
+
+

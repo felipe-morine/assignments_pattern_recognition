@@ -1,0 +1,3 @@
+ - usando dummies para variaveis com > 2 categorias, o dataset pulou pra 36 colunas + classe
+ - isso quer dizer que selecionar as features na verdade sera mais uma "retirada de atributos com pouca informacao"
+ - algoritmo muito lerdo. Talvez consiga ser otimizado.
